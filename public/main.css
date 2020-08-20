@@ -1,0 +1,38 @@
+html,
+body{
+    background-color: coral;
+    font-family: "Times New Roman", Times, serif ;
+
+
+}
+p#try{
+    color: rgb(224, 9, 160);
+    background-color:bisque;
+    height: 100;
+}
+img#try2{
+    margin-right: 50%;
+}
+
+#navbar{
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    background-color: wheat;
+}
+#sidebar{
+    height: 100%;
+    width: 10%;
+    position: fixed;
+    background-color:white;
+}
+#footer{
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: wheat;
+}
+
+
+
